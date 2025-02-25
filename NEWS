@@ -1,3 +1,8 @@
+Changes in version 1.99.0 (2025-1-13)
++ New interaction types added
++ Convergence testing for deterministic simulations added
++ Ornstein-Uhlenbeck noise option added
+
 Changes in version 1.1.4 (2020-04-21)
 + parallel processing added
 

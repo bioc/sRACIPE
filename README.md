@@ -20,7 +20,7 @@ Or install the development version of the package from Github.
 
 library(devtools)
 
-install_github(“vivekkohar/sRACIPE”)
+install_github(lusystemsbio/sRACIPE”)
 
 Build Reports
 ------
