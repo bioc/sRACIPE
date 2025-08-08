@@ -1,7 +1,7 @@
 Package: sRACIPE
 Type: Package
 Title: Systems biology tool to simulate gene regulatory circuits 
-Version: 2.1.0
+Version: 2.1.1
 Authors@R: c(
     person("Mingyang", "Lu", , "m.lu@northeastern.edu", role = c("aut", "cre"), 
       comment = c(ORCID = "0000-0001-8158-0593")
